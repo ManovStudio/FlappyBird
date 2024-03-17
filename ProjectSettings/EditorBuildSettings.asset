@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LevelList.unity
+    guid: 5a63f554f2eb80c4ea38ef0cf410be4b
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level_3.unity
+    guid: b8bae03b53aa5f6468ed6dcdcd6e75a6
+  - enabled: 1
+    path: Assets/Scenes/second.unity
+    guid: bffad5eada5d27a40901fa869da2aaff
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 29924da365710c44685715a56955bf85
+  - enabled: 1
+    path: Assets/Scenes/RickRollScene.unity
+    guid: e5ac8d3da1c648d4b8509f55a93cbd2c
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
